@@ -6,7 +6,7 @@
 			
         <!-- BEGIN PAGE HEADER-->
         <h3 class="page-title">
-        Errore 404
+        Errore 405
         </h3>
        
         <!-- END PAGE HEADER-->
